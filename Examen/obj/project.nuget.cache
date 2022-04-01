@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "g0gh9lya2keRaNXSeC744y2YFbhLAmZpQXMC682VXih66u5eTemK2+PDBOtRpH8tBqyi2zLnyksRuqwACMhs4g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Latitude\\source\\repos\\Examen\\Examen\\Examen.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Latitude\\.nuget\\packages\\npgsql\\6.0.3\\npgsql.6.0.3.nupkg.sha512",
+    "C:\\Users\\Latitude\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
